@@ -1,9 +1,12 @@
 # Marketing Agency - Accessibility standards
 
+
 ## Accessibility Standards & SEO
 
 
+
 ### The workaround to meet accessibility standards:
+
 
 **WHEN I view the source code**
 _I can find now semantings elements such as: **header, nav, main, section, article, aside, picture and footer.**_
